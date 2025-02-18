@@ -107,4 +107,4 @@ Interested in contributing to this project? Feel free to fork the repo, submit a
 
 ## **🌟 Future Vision**  
 This project is more than just a software model—it’s a **step toward making sign language translation more accessible through AI and wearable technology.** By combining **deep learning and embedded systems**, this solution has the potential to evolve into **a real-time sign language translator for everyday use.**  
-\
+
